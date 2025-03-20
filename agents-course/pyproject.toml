@@ -2,11 +2,12 @@
 name = "agents-course"
 version = "0.1.0"
 description = ""
-authors = ["tupe12334 <ofek.gabay.he@gmail.com>"]
+authors = ["Ofek Gabay <ofek.gabay.he@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
+huggingface-hub = "^0.29.3"
 
 
 [build-system]
