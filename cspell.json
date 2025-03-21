@@ -1,4 +1,10 @@
 {
   "version": "0.2",
-  "words": ["Gabay", "huggingface", "Ofek", "pyproject"]
+  "words": [
+    "dotenv",
+    "Gabay",
+    "huggingface",
+    "Ofek",
+    "pyproject"
+  ]
 }
