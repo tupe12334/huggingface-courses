@@ -4,10 +4,12 @@ version = "0.1.0"
 description = ""
 authors = ["Ofek Gabay <ofek.gabay.he@gmail.com>"]
 readme = "README.md"
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.12"
 huggingface-hub = "^0.29.3"
+python-dotenv = "^1.0.1"
 
 
 [build-system]
