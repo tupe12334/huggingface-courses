@@ -10,6 +10,7 @@ package-mode = false
 python = "^3.12"
 huggingface-hub = "^0.29.3"
 python-dotenv = "^1.0.1"
+transformers = "^4.50.0"
 
 
 [build-system]
